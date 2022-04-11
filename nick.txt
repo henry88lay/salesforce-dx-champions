@@ -1,0 +1,3 @@
+  - Name: Nick
+  - Hobbie: Reading
+  - Favourite Dish: Steak
