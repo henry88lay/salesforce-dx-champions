@@ -3,7 +3,7 @@ This is the git challenge of the workshop
 
 
 ## Instructions
-1. Create a text file called `YOUR_NAME.txt` and copy and paste the test below and edited the  and raise a pull request;
+1. Create a text file called `YOUR_NAME.txt` and copy and paste the dot point text below and edited the  and raise a pull request;
   - Name: FILL_OUT_MY_NAME
   - Hobbie: ADD_ONE_HOBBY_I_ENJOY
   - Favourite Dish: ADD_ONE_FOOD_DISH_YOU_ENJOY
