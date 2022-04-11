@@ -1,3 +1,0 @@
- - Name: Lovely
-  - Hobbie: Singing
-  - Favourite Dish: Adobo
