@@ -1,3 +1,0 @@
-  - Name: Kem
-  - Hobbie: FPS Games
-  - Favourite Dish: Mashed Potatoes
